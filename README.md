@@ -59,4 +59,4 @@ review, the staging site is manually pushed to the production site,
 
 Concourse Pipeline:
 
-* **master**: https://concourse.run.pivotal.io/teams/cf-docs/pipelines/cf-services?group=azure-nozzle
+* **master**: https://concourse.run.pivotal.io/teams/cf-docs/pipelines/cf-services?group=azure-analytics
