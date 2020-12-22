@@ -1,0 +1,34 @@
+---
+book_repo: pivotal-cf/docs-book-azure-analytics
+layout_repo: pivotal-cf/docs-layout-repo
+layout_repo_ref: 'master'
+
+feedback_enabled: true
+
+broken_link_exclusions: iefix|arrowhead
+repo_link_enabled: true
+
+public_host: docs.pivotal.io
+
+elastic_search: true
+
+sections:
+
+- repository:
+    name: pivotal-cf/docs-azure-analytics
+    subnav_template: azure-log-analytics-nozzle_subnav.erb
+  product_info:
+    use_local_header: true
+    latest_stable_version: 1.4
+    changelog_href: release-notes.html
+    local_header_img: /images/cloud_rings.png
+    local_header_title: Nozzle for VMware Tanzu for Microsoft Azure Log Analytics
+    search_placeholder: Search Nozzle for VMware Tanzu for Microsoft Azure Log Analytics
+    url_prefix: azure-log-analytics-nozzle/
+    local_product_version: '1.4'
+    local_header_links:
+      - <a href="https://network.pivotal.io/products/p-healthwatch/">Download from Tanzu Network</a>
+      - <a href="https://community.pivotal.io/s/topic/0TO0P000000IKhwWAG/welcome">Knowledge Base</a>
+    local_header_version_list:
+      - url_prefix: http://docs.pivotal.io/azure-log-analytics-nozzle/
+        display_name: v1.4
