@@ -1,5 +1,12 @@
 # docs-book-azure-analytics
 
+**NOTE**: This repo is no longer used. All of the information needed is now in the [docs-azure-analytics](https://github.com/pivotal-cf/docs-azure-analytics/) repo.
+The documnent build no longer uses Bookbinder, but is now published using DocWorks and DocsDash.
+
+The published doc is now here: https://docs.vmware.com/en/Nozzle-for-VMware-Tanzu-for-Microsoft-Azure-Log-Analytics/services/documentation/GUID-index.html
+
+------
+
 This repository contains metadata for the Nozzle for VMware Tanzu for Microsoft Azure Log Analytics documentation. We publish the Nozzle for VMware Tanzu for Microsoft Azure Log Analytics documentation at
 https://docs.pivotal.io/azure-log-analytics-nozzle/index.html.
 
